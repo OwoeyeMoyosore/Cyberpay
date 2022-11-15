@@ -1,0 +1,56 @@
+[
+    {
+        "transactionTime" : "31 September 2022, 1:27:53pm ",
+        "transactionNarration" : "CYB30062228663857473",
+        "amount": "47,954.25",
+        "merchant": "Cyberspace LTD Settlement",
+        "accountNumber":"DR 1016300267",
+        "bankName": "Zenith Bank"
+    },
+    {
+        "transactionTime" : "31 September 2022, 1:27:53pm ",
+        "transactionNarration" : "CYB30062228663857473",
+        "amount": "47,954.25",
+        "merchant": "Cyberspace COMM ACC",
+        "accountNumber":"DR 1016300267",
+        "bankName": "Cyberspace LTD Settlement"
+
+    },
+    {
+        
+        "transactionTime" : "31 September 2022, 1:27:53pm ",
+        "transactionNarration" : "CYB30062228663857473",
+        "amount": "47,954.25",
+        "merchant": "Alert Microfinance Bank Limited",
+        "accountNumber":"DR 1016300267",
+        "bankName": "Cyberspace LTD Settlement"
+    },
+    {
+        "transactionTime" : "31 September 2022, 1:27:53pm ",
+        "transactionNarration" : "CYB30062228663857473",
+        "amount": "47,954.25",
+        "merchant": "Autocheck - getGari  Coll. ACC",
+        "accountNumber":"DR 1016300267",
+        "bankName": "Providus Bank"
+  
+    },
+    {
+        "transactionTime" : "31 September 2022, 1:27:53pm ",
+        "transactionNarration" : "CYB30062228663857473",
+        "amount": "47,954.25",
+        "merchant": "Jehosheba Dev-Isory Services LTD",
+        "accountNumber":"DR 1016300267",
+        "bankName": "Zenith Bank"
+    },
+    {
+        "transactionTime" : "31 September 2022, 1:27:53pm ",
+        "transactionNarration" : "CYB30062228663857473",
+        "amount": "47,954.25",
+        "merchant": "Parkway Microfinace Bank Limited",
+        "accountNumber":"DR 1016300267",
+        "bankName": "Providus Bank"
+    }
+
+
+    
+]

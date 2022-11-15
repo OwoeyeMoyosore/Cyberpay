@@ -1,0 +1,35 @@
+[
+    {
+        "customerName": "Ekerete Oluwatofunmi",
+        "transactionType": "Payout",
+        "channel": "BulkPayOut",
+        "date": "31 September 2022, 1:27:53pm",
+        "status": "Pending"
+    },
+    
+    {
+        "customerName": "Owoeye Moyosore",
+        "transactionType": "Payout",
+        "channel": "BulkPayOut",
+        "date": "31 September 2022, 1:27:53pm",
+        "status": "Failed"
+    },
+    
+    {
+        "customerName": "Ekerete Oluwatofunmi",
+        "transactionType": "Payout",
+        "channel": "BulkPayOut",
+        "date": "31 September 2022, 1:27:53pm",
+        "status": "Success"
+    },
+    
+    {
+        "customerName": "Ekerete Oluwatofunmi",
+        "transactionType": "Payout",
+        "channel": "BulkPayOut",
+        "date": "31 September 2022, 1:27:53pm",
+        "status": "Pending"
+    }
+ 
+   
+]

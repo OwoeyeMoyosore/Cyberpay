@@ -1,0 +1,38 @@
+[
+  {
+    "transactionDuration": "48 hours",
+    "totalAmount": "47,954.25",
+    "processedTime": "31 September 2022,1:27:53pm",
+    "status": "Processed"
+  },
+  {
+    "transactionDuration": "16 hours",
+    "totalAmount": "47,954.25",
+    "processedTime": "31 September 2022,1:27:53pm",
+    "status": "Declined"
+  },
+  {
+    "transactionDuration": "24 hours",
+    "totalAmount": "47,954.25",
+    "processedTime": "31 September 2022,1:27:53pm",
+    "status": "Reconciled"
+  },
+  {
+    "transactionDuration": "24 hours",
+    "totalAmount": "47,954.25",
+    "processedTime": "31 September 2022,1:27:53pm",
+    "status": "Declined"
+  },
+  {
+    "transactionDuration": "24 hours",
+    "totalAmount": "47,954.25",
+    "processedTime": "31 September 2022,1:27:53pm",
+    "status": "Reconciled"
+  },
+  {
+    "transactionDuration": "24 hours",
+    "totalAmount": "47,954.25",
+    "processedTime": "31 September 2022,1:27:53pm",
+    "status": "Processed"
+  }
+]

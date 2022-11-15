@@ -1,0 +1,269 @@
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+.layout{
+  background-color: #F6FAFD;
+}
+.labelClass{
+  font-size: 12px;
+  font-weight: bold;
+}
+.inputClass{
+  font-size: 12px;
+  border-radius: 5px!important;
+  box-shadow: none;
+}
+.inputClass::placeholder{
+  font-size: 12px;
+}
+.mybtn{
+  border-radius: 5px!important;
+  background-color: #206AA2!important;
+}
+.fs-8{
+  font-size: 12px;
+}
+.mylink{
+  text-decoration: none;
+  color: black;
+}
+.fpass{
+  background-color: blue!important;
+}
+
+
+/* dashboard */
+.sidebar {
+  border-right: 1px solid #E8EAED;
+}
+
+.welcome-card {
+  border: none !important;
+  background-color: #F6FAFD !important;
+}
+
+.h6 {
+  font-size: 12px !important;
+  color: #5F6063 !important;
+}
+
+.titleName {
+  color: #206AA2 !important;
+}
+
+.menu-button {
+  background-color: #FFFFFF !important;
+  border: none !important;
+}
+
+.menu-button:hover .img {
+  filter: brightness(0) saturate(100%) invert(36%) sepia(38%) saturate(1232%) hue-rotate(166deg) brightness(89%) contrast(88%);
+}
+
+.menu-button .h6 {
+  color: #232323;
+}
+
+.menu-button:hover .h6 {
+  color: #206AA2 !important;
+}
+
+.menu-button:hover, .menu-button:focus, .menu-button:active {
+  background-color: #F2F2F2B2 !important;
+
+}
+.menu-button .h6:active, .menu-button .h6:focus{
+  color: #206AA2 !important;  
+}
+.container-search {
+  background-color: #F2F2F2;
+  height: 40px;
+}
+
+.container-search input {
+  height: 100%;
+  background-color: transparent;
+  border: none;
+}
+
+.container-search input:focus {
+  background-color: transparent;
+  border: none !important;
+}
+
+.container-search button {
+  color: #5F6063;
+  height: 100%;
+}
+
+.text-danger:hover {
+  color: #FFFFFF !important;
+}
+
+/* consume */
+
+.cards {
+  background-color: #F6FAFD !important;
+  border: none !important;
+}
+
+.w-30 {
+  width: 30%;
+}
+
+.nextRow {
+  padding-left: 32px;
+  padding-right: 32px;
+}
+
+/* dashboard overview */
+
+.chart {
+  background-color: #F6FAFD;
+  border-radius: 8px;
+}
+
+.cards {
+  background-color: #F6FAFD !important;
+  border: none !important;
+}
+
+.bars {
+  width: 15px !important;
+}
+
+.mainButton {
+  background-color: #206AA2 !important;
+  width: 150px;
+  height: 45px;
+}
+.filter {
+  background-color: #e7ebef !important;
+  width: 150px;
+  height: 45px;
+}
+
+
+.viewButton {
+  border: none;
+  background-color: #208BA2B2!important;
+  width: 110px !important;
+}
+
+.bars:hover {
+  background-color: #206AA2;
+}
+
+.h-90 {
+  height: 90px;
+}
+
+.h6 {
+  font-size: 14px;
+}
+
+tr {
+  font-size: 14px;
+  /* border-width: 0.1px !important;
+  border-color: #5F6063 !important; */
+}
+
+.borders {
+  color: #5F6063;
+  border-bottom: 0.1px solid #E8EAED;
+  /* border-width: 0.1px !important;
+  border-color: #5F6063 !important; */
+}
+
+.firstRow {
+  height: 300px;
+}
+
+.table-main {
+  margin-top: 100px !important;
+  padding: 10px;
+}
+.bankStatement:active, .bankStatement:hover{
+  background-color: #208BA2!important;
+  color: white!important;
+  border-radius: 0;
+  
+}
+/* Notification */
+.borders2 {
+  color: #5F6063;
+  border: 0.1px solid #E8EAED;
+  border-radius: 10px;
+  /* padding-bottom: 10px; */
+  /* border-width: 0.1px !important;
+  border-color: #5F6063 !important; */
+}
+.notidate{
+  color: #5F6063;
+  font-weight: 300;
+}
+.notibody{
+  color: #5F6063;
+  font-weight: 500;
+
+}
+.notidesc{
+  color: black;
+}
+
+/* modal */
+.modal-header{
+  background-color: #D9EAF7;
+}
+
+.text{
+  font-size: 10px;
+  font-weight: 100;
+  left: 80px;
+  top: 0
+}
+
+.search-bar:focus{
+  box-shadow: none!important;
+}
+
+
+

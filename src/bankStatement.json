@@ -1,0 +1,50 @@
+[
+    {
+        "transactionReference":"SALARY/2016/SEPT/STAFF4",
+        "beneficiaryName":"Ebuka Udoka",
+        "paymentAmount":"47,954.25",
+        "paymentdueDate":"31 September 2022,1:27:53pm ",
+        "beneficiaryCode":"DR 1016300267",
+        "beneficiaryAccount":"Zenith Bank"
+    },
+    {
+        "transactionReference":"SALARY/2016/SEPT/STAFF4",
+        "beneficiaryName":"Owoeye Moyosore",
+        "paymentAmount":"47,954.25",
+        "paymentdueDate":"31 September 2022,1:27:53pm ",
+        "beneficiaryCode":"DR 1016300267",
+        "beneficiaryAccount":"Cyberspace Ltd Settlement"
+    },
+    {
+        "transactionReference":"SALARY/2016/SEPT/STAFF4",
+        "beneficiaryName":"Obafemi Damilare",
+        "paymentAmount":"47,954.25",
+        "paymentdueDate":"31 September 2022,1:27:53pm ",
+        "beneficiaryCode":"DR 1016300267",
+        "beneficiaryAccount":"Cyberspace Ltd Settlement"
+    },
+    {
+        "transactionReference":"SALARY/2016/SEPT/STAFF4",
+        "beneficiaryName":"Ebuka Udoka",
+        "paymentAmount":"47,954.25",
+        "paymentdueDate":"31 September 2022,1:27:53pm ",
+        "beneficiaryCode":"DR 1016300267",
+        "beneficiaryAccount":"Providus Bank"
+    },
+    {
+        "transactionReference":"SALARY/2016/SEPT/STAFF4",
+        "beneficiaryName":"Ebuka Udoka",
+        "paymentAmount":"47,954.25",
+        "paymentdueDate":"31 September 2022,1:27:53pm ",
+        "beneficiaryCode":"DR 1016300267",
+        "beneficiaryAccount":"Zenith Bank"
+    },
+    {
+        "transactionReference":"SALARY/2016/SEPT/STAFF4",
+        "beneficiaryName":"Owoeye Moyosore",
+        "paymentAmount":"47,954.25",
+        "paymentdueDate":"31 September 2022,1:27:53pm ",
+        "beneficiaryCode":"DR 1016300267",
+        "beneficiaryAccount":"Providus Bank"
+    }
+]

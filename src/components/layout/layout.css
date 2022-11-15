@@ -1,0 +1,16 @@
+
+.layout{
+    background-color: #F6FAFD;
+    height: 100vh;
+    /* display: flex; */
+    /* align-items: center; */
+    justify-content: center;
+  }
+  .logo{
+    padding-top: 10%;
+  }
+  .children{
+     display: flex;
+    align-items: center;
+    justify-content: center;
+  }
