@@ -37,9 +37,6 @@ const Transaction = () => {
 
 
 
-           
-
-
             {/* <button className="mainButton border-0 rounded text-white p-2 h6 mb-0" onClick={() => navigate(route.transction4)}>
               <img src={IMAGES.download} alt="down" /> Download
             </button> */}
